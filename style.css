@@ -9,6 +9,7 @@ body {
     height: 100%;
     width: 100%;
 }
-image#MMS {
-    align-items: center;
+img#MMS {
+    display: block;
+    margin: 0 auto;
 }
