@@ -15,7 +15,7 @@ img#MMS {
     display: block;
     margin: 0 auto;
 }
-/*div#backdrop {
+div#backdrop {
     backdrop-filter: blur(10px);
     z-index: -1;
-}*/
+}
