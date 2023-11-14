@@ -1,9 +1,10 @@
 html {
     height: 100%;
-    width: 50%;
+    width: 100%;
     background-image: url("images/Minecraft-Survival-Guide-Featured.webp");
-    background-size: cover;
+    background-size: contain;
     background-position: center;
+    background-repeat: no-repeat;
 }
 body {
     background-color: transparent;
