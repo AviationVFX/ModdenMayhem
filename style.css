@@ -10,11 +10,11 @@ body {
     height: 100%;
     width: 100%;
 }
-img#MMS {
+/*img#MMS {
     background-color: transparent;
     display: block;
     margin: 0 auto;
-}
+}*/
 div#backdrop {
     backdrop-filter: blur(10px);
     z-index: 1;
